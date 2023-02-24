@@ -1401,6 +1401,36 @@ nextLine()的结束标记是换行符
 
 
 
+## 数组排序（compareTo,comparable,comparator）
+
+**compareTo的使用方式**
+
+![image-20221009210822426](image/image-20221009210822426.png)
+
+
+
+**comparable和comparator的区别（多个案例）**
+
+- 第一个
+
+
+
+![juejin.cn_post_7027485262032666632(1)](image/juejin.cn_post_7027485262032666632(1).png)
+
+
+
+- 第二个
+
+
+
+![juejin.cn_post_7040821677667647524](image/juejin.cn_post_7040821677667647524.png)
+
+
+
+
+
+
+
 # Java常用工具__IO流_
 
 ![image-20201004105122603](image/image-20201004105122603.png)
